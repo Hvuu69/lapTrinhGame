@@ -1,0 +1,17 @@
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

@@ -1,0 +1,2 @@
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\GIT REPO\lapTrinhGame\lapTrinhGame\lmsww\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

@@ -1,0 +1,5 @@
+D:/GIT REPO/lapTrinhGame/lapTrinhGame/lmsww/.utmp/RelWithDebInfo/2t446h19/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/GIT REPO/lapTrinhGame/lapTrinhGame/lmsww/.utmp/RelWithDebInfo/2t446h19/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/GIT REPO/lapTrinhGame/lapTrinhGame/lmsww/.utmp/RelWithDebInfo/2t446h19/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/GIT REPO/lapTrinhGame/lapTrinhGame/lmsww/.utmp/RelWithDebInfo/2t446h19/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/GIT REPO/lapTrinhGame/lapTrinhGame/lmsww/.utmp/RelWithDebInfo/2t446h19/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
