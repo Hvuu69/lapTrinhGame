@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int health = 100;
+    public int health = 3;
     public event Action<int> OnHealthChanged;
     public GameObject gameOverUI; // Assign the Game Over UI in the Inspector
 
@@ -47,6 +47,18 @@ public class PlayerHealth : MonoBehaviour
         else
         {
             Debug.LogWarning("Game Over UI is not assigned in the Inspector.");
+        }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+        OnHealthChanged?.Invoke(health);
+
+        if (health <= 0)
+        {
+            Debug.Log("GAME OVER");
+            GameOver();
         }
     }
 }
