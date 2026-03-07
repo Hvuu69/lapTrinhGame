@@ -1,11 +1,14 @@
 using UnityEngine;
 
-public class PlayerHealth1 : Health
+public class PHealth : Health
 {
+    public event System.Action onDead; // Added onDead event
+
     protected override void Die()
     {
         base.Die();
         Debug.Log("Player died");
+        onDead?.Invoke(); // Invoke the event
     }
 
     private void Update()
