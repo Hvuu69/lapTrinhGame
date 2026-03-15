@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
+    public System.Action onHealthChanged;
     public GameObject explosionPrefab;
     public int defaultHealthPoint;
-    private int healthPoint;
+    public int healthPoint;
     public System.Action onDead;
 
     protected virtual void Die()
@@ -14,15 +15,20 @@ public class Health : MonoBehaviour
         Destroy(gameObject);
         onDead?.Invoke();
     }
-    private void Start() => healthPoint = defaultHealthPoint;
 
+    private void Start()
+    {
+        healthPoint = defaultHealthPoint;
+        onHealthChanged?.Invoke();
+    }
     public void TakeDamage(int damage)
     {
         if (healthPoint <= 0) return;
 
-        Debug.Log($"TakeDamage called. Current health: {healthPoint}, Damage: {damage}");
-
         healthPoint -= damage;
+        onHealthChanged?.Invoke();
         if (healthPoint <= 0) Die();
     }
+
+
 }
