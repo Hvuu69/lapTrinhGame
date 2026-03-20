@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scenes\C5\script\Player1.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\Script\FlyPathAgent.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Script\ScriptC3\PlayerHealth.cs" />
     <Compile Include="Assets\Script\EnemyHealth.cs" />
@@ -85,8 +86,8 @@
     <Compile Include="Assets\Script\Blinking.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-    <Compile Include="Assets\Script\ScriptC4\GlobalAudioControl.cs" />
     <Compile Include="Assets\Script\FlyPath.cs" />
+    <Compile Include="Assets\Script\ScriptC4\GlobalAudioControl.cs" />
     <Compile Include="Assets\Script\WorldToScreen.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Assets\Script\MainMenu.cs" />
     <Compile Include="Assets\Script\Bullet.cs" />
     <Compile Include="Assets\Script\ScriptC3\LifecycleLogger.cs" />
+    <Compile Include="Assets\Script\EnemySpawner.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Script\ScriptC4\PlayVideo.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
